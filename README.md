@@ -25,7 +25,3 @@ go run main.go
 ```bash
 PORT=8083 INSTANCE_ID=some-text go run main.go
 ```
-
-## Author
-
-Noval Agung Prayogo
