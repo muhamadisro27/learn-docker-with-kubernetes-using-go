@@ -21,7 +21,7 @@ func main() {
 			return
 		}
 
-		text := "hello world"
+		text := "hello world indonesia"
 		if instanceID != "" {
 			text = text + ". from " + instanceID
 		}
